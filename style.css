@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(135deg, rgb(1, 59, 17) 38%, rgb(2, 136, 24) 57%,
+    rgb(19, 185, 3) 91%);
+
+}
+#mainbox {
+
+    background-color: rgb(164, 245, 191);
+    position: absolute;
+    width: 337px;
+    height: 388px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 25px;
+}
+#usernameBox {
+    width: 210px;
+    height: 29px;
+    position: absolute;
+    left: 60px;
+  background-color:rgb(242, 255, 244);
+    top: 200px;
+    
+
+}
+#passwordBox {
+    width: 210px;
+    height: 29px;
+    position: absolute;
+    left: 60px;
+
+    top: 250px;
+   
+}
+#headerone {
+    margin-left: 82px;
+    margin-right: 50px;
+   font-family: serif;
+ 
+}
+#mybtn {
+    width: 210px;
+    height: 40px;
+    position: absolute;
+    left: 404px;
+    top: 437px; 
+    background-color: rgb(39, 180, 79);
+}
